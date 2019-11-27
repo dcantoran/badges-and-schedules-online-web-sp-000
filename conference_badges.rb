@@ -1,4 +1,4 @@
 # Write your code here.
-def badges_maker
+def badge_maker
   
 end 
