@@ -15,6 +15,10 @@ def assign_rooms(attendees)
   end 
 end 
 
-def printer(name) 
-  puts "Hello, my name is #{name}."
+def printer(attendees) 
+  attendees.each do 
+    puts "Hello, my name is #{name}."
+  end 
 end 
+
+
